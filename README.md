@@ -1,4 +1,9 @@
-## Working on the README file.
+# Mateus Nogueira
+
+Developer with experience in Business Intelligence and software development, interested in programming, primarily backend and game development.
+I'm a calm person, with an aptitude for learning new technologies and adapting to different contexts and work environments.
+
+---
 
 <!--
 **MateusNoguera/MateusNoguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
