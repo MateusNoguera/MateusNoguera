@@ -17,7 +17,7 @@ I'm a calm person, with an aptitude for learning new technologies and adapting t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" title="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" title="Unreal Engine" />
-  <img src="https://raw.githubusercontent.com/MateusNoguera/Portfolio/main/images/QlikSVG.svg" width="48" height="48" alt="Qlik" />
+  <img src="https://raw.githubusercontent.com/MateusNoguera/Portfolio/main/images/QlikSVG.svg" width="48" height="48" alt="Qlik Tools" title="Qlik Tools" />
 </p>
 
 ---
