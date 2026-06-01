@@ -1,13 +1,15 @@
-# Mateus Nogueira
+<h1 align="center"> Mateus Nogueira </h1>
 
+<p align="center">
 Developer with experience in Business Intelligence and software development, interested in programming, primarily backend and game development.
-I'm a calm person, with an aptitude for learning new technologies and adapting to different contexts and work environments.
+I'm a calm person, with an aptitude for learning new technologies and adapting to different situations.
+</p>
 
 ---
 
-### 🛠️ Interested in
+<h1 align="center"> 🛠️ Interested in </h1>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
@@ -19,9 +21,9 @@ I'm a calm person, with an aptitude for learning new technologies and adapting t
 
 ---
 
-### 📬 Contact
+<h1 align="center"> 📬 Contact </h1>
 
-<p align="left">
+<p align="center">
   <a href="mailto:mnogueira030@gmail.com">
     <img src="https://img.shields.io/badge/Email-mnogueira030%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
