@@ -24,10 +24,8 @@ I'm a calm person, with an aptitude for learning new technologies and adapting t
 <h1 align="center"> 📬 Contact </h1>
 
 <p align="center">
-  <a href="mailto:mnogueira030@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mnogueira030%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <br/><br/>
+  📧 mnogueira030@gmail.com<br/>
+  📧 noguerateus@gmail.com<br/><br/>
   <a href="https://www.linkedin.com/in/mateus-nogueira-b3b5a614b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mateus%20Nogueira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
